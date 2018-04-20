@@ -4,6 +4,10 @@ nav ul {
 nav ul li{
   display: inline-block;
 }
+nav ul li a{
+  display: inline-block;
+  color: #fff;
+}
 nav{
   display: inline-block;
   text-decoration: none;
@@ -17,10 +21,21 @@ body{
 #pro1{
  border-radius:50%;
  height: 40vh;
- width:40vh;
+ width:450px;
+ float: left;
 }
 #pro2{
  border-radius:50%;
  height: 40vh;
  width:40vh;
  }
+ .1{
+   float: left;
+   display: block;
+   width:450px;
+ }
+ #pro3{
+  border-radius:50%;
+  height: 40vh;
+  width:40vh;
+  }
