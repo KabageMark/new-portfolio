@@ -1,24 +1,11 @@
- #selfie{
-  border-radius:50%;
-  height: 40vh;
-  width:40vh;
-}
 body{
-  background-image: url("../img/dev2.jpg");
+  background-image: url("../img/about.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
-.cool1{
-  color: #F0F3F4;
-  margin-left: 500px;
-  margin-right: 500px;
-  border-style: solid;
-  border-color: #61788F;
-  font-family: 'Lobster', cursive;
-}
 .cool2{
-  color: #51A78A;
+  color: #424949;
   margin-left: 300px;
   margin-right: 300px;
   border-style: solid;
