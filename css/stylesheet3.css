@@ -14,3 +14,13 @@ body{
   background-repeat: no-repeat;
   background-position:center;
 }
+#pro1{
+ border-radius:50%;
+ height: 40vh;
+ width:40vh;
+}
+#pro2{
+ border-radius:50%;
+ height: 40vh;
+ width:40vh;
+ }
