@@ -9,3 +9,8 @@ nav{
   text-decoration: none;
   color: white;
 }
+body{
+  background-image: url("../img/pro.jpg");
+  background-repeat: no-repeat;
+  background-position:center;
+}
